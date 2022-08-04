@@ -1,0 +1,107 @@
+@media screen and (min-width:768px){
+    section, .diferencial-single{
+        width: 100%;
+    }
+    .telefone img{
+        width: 100%;
+       
+    }
+    .menu-itens{
+        width: 100%;
+    }
+    Body{
+        width: 100%;
+    }
+    .center{
+        width: 100%;
+    }
+    header{
+        width: 100%;
+    }
+    .alignflex{
+        width: 100%;
+    }
+    .logo h2{
+        width: 100%;
+    }
+    .menu-btn{
+        width: 100%;
+    }
+    .menu-itens a{
+        width: 100%;
+    }
+    .menu-itens a.active{
+        width: 100%;
+    }
+    .menu-btn button{
+        width: 100%;
+    }
+    .menu-btn button:hover{
+        width: 100%;
+    }
+    .main-1 h1{
+        width: 100%;
+    }
+    .diferencial-single{
+        width: 100%;
+    }
+    .diferencial-single svg{
+        width: 100%;
+    }
+    .diferencial-single h3{
+        width: 100%;
+    }
+    .diferencial-single p{
+        width: 100%;
+    }
+    .Information h2{
+        width: 100%;
+    }
+    .Information p{
+    width: 100%;
+}
+    .cartaz img{
+        width: 100%;
+    }
+    .text p {
+        width: 100%;
+    }
+    .Information p{
+        width: 100%;
+    }
+    .cartaz h2{
+        width: 100%;
+    }
+    .text p{
+    width: 100%;
+}
+    .text img{
+        width: 100%;
+    }
+    .telefone{
+    margin: 10px 580px;
+}
+    section.contato{
+     width: 100%;
+}
+    section.contato h1{
+    width: 100%;
+}
+    section.contato form{
+    width:100%;
+}
+    .contato input[type=text],
+    .contato input[type=email]{
+        width: 100%;
+    }
+  
+    .contato textarea{
+       width: 100%;
+    }
+    .contato1 input{
+        width: 100%;
+    }
+    .text-footer p{
+        width: 100%;
+    }
+}
